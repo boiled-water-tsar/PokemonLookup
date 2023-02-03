@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeLookup", "PokeLookup\PokeLookup.csproj", "{C003EBE6-86A2-4BDC-86E2-71AAEB9CDB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeTest", "PokeTest\PokeTest.csproj", "{55C24A1E-F849-4E38-B508-DCF973520930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C003EBE6-86A2-4BDC-86E2-71AAEB9CDB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C003EBE6-86A2-4BDC-86E2-71AAEB9CDB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C003EBE6-86A2-4BDC-86E2-71AAEB9CDB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C003EBE6-86A2-4BDC-86E2-71AAEB9CDB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C24A1E-F849-4E38-B508-DCF973520930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C24A1E-F849-4E38-B508-DCF973520930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C24A1E-F849-4E38-B508-DCF973520930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C24A1E-F849-4E38-B508-DCF973520930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -11,4 +11,4 @@ docker build -t pokelookup .
 docker run -it --rm -p 80:80 --name great_lookup pokelookup
 ```
 
-then navigate to http://localhost/swagger/index.html and enjoy some Pokemon descriptions!
+From project root, then navigate to http://localhost/swagger/index.html and enjoy some Pokemon descriptions!
